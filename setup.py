@@ -17,6 +17,8 @@ setup(
         "django",
     ],
     
+    url="https://github.com/Rootbuzz/pingpong",
+
     packages=[
         'pingpong', 
         'pingpong.management',
